@@ -1,0 +1,120 @@
+[14-Apr-2019 08:23:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 08:23:42 UTC] PHP Stack trace:
+[14-Apr-2019 08:23:42 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 08:23:42 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 08:23:42 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 08:23:42 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 08:23:42 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 08:23:42 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 08:23:42 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 08:23:42 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 08:23:42 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 08:23:42 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 08:26:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 08:26:30 UTC] PHP Stack trace:
+[14-Apr-2019 08:26:31 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 08:26:31 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 08:26:31 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 08:26:31 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 08:26:31 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 08:26:31 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 08:26:31 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 08:26:31 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 08:26:31 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 08:26:31 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 08:34:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 08:34:32 UTC] PHP Stack trace:
+[14-Apr-2019 08:34:32 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 08:34:32 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 08:34:32 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 08:34:32 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 08:34:32 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 08:34:32 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 08:34:32 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 08:34:32 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 08:34:32 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 08:34:32 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 08:39:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 08:39:25 UTC] PHP Stack trace:
+[14-Apr-2019 08:39:25 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 08:39:25 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 08:39:25 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 08:39:25 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 08:39:25 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 08:39:25 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 08:39:25 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 08:39:25 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 08:39:25 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 08:39:25 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 09:35:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 09:35:52 UTC] PHP Stack trace:
+[14-Apr-2019 09:35:52 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 09:35:52 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 09:35:52 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 09:35:52 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 09:35:52 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 09:35:52 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 09:35:52 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 09:35:52 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 09:35:52 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 09:35:52 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 09:41:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 09:41:17 UTC] PHP Stack trace:
+[14-Apr-2019 09:41:17 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 09:41:17 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 09:41:17 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 09:41:17 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 09:41:17 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 09:41:17 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 09:41:17 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 09:41:17 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 09:41:17 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 09:41:17 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 09:52:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 09:52:11 UTC] PHP Stack trace:
+[14-Apr-2019 09:52:11 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 09:52:11 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 09:52:11 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 09:52:11 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 09:52:11 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 09:52:11 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 09:52:11 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 09:52:11 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 09:52:11 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 09:52:11 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 10:12:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 10:12:56 UTC] PHP Stack trace:
+[14-Apr-2019 10:12:56 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 10:12:56 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 10:12:56 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 10:12:56 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 10:12:56 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 10:12:56 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 10:12:56 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 10:12:56 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 10:12:56 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 10:12:56 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 10:23:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 10:23:03 UTC] PHP Stack trace:
+[14-Apr-2019 10:23:03 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 10:23:03 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 10:23:03 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 10:23:03 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 10:23:03 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 10:23:03 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 10:23:03 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 10:23:03 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 10:23:03 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 10:23:03 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517
+[14-Apr-2019 10:28:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/optinmonster/OMAPI/Widget.php on line 181
+[14-Apr-2019 10:28:43 UTC] PHP Stack trace:
+[14-Apr-2019 10:28:43 UTC] PHP   1. {main}() /app/public/wp-admin/customize.php:0
+[14-Apr-2019 10:28:43 UTC] PHP   2. do_action() /app/public/wp-admin/customize.php:123
+[14-Apr-2019 10:28:43 UTC] PHP   3. WP_Hook->do_action() /app/public/wp-includes/plugin.php:465
+[14-Apr-2019 10:28:43 UTC] PHP   4. WP_Hook->apply_filters() /app/public/wp-includes/class-wp-hook.php:310
+[14-Apr-2019 10:28:43 UTC] PHP   5. WP_Customize_Widgets->enqueue_scripts() /app/public/wp-includes/class-wp-hook.php:286
+[14-Apr-2019 10:28:43 UTC] PHP   6. WP_Customize_Widgets->get_available_widgets() /app/public/wp-includes/class-wp-customize-widgets.php:690
+[14-Apr-2019 10:28:43 UTC] PHP   7. WP_Customize_Widgets->get_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1001
+[14-Apr-2019 10:28:43 UTC] PHP   8. wp_widget_control() /app/public/wp-includes/class-wp-customize-widgets.php:1053
+[14-Apr-2019 10:28:43 UTC] PHP   9. WP_Widget->form_callback() /app/public/wp-admin/includes/widgets.php:265
+[14-Apr-2019 10:28:43 UTC] PHP  10. OMAPI_Widget->form() /app/public/wp-includes/class-wp-widget.php:517

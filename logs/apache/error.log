@@ -1,0 +1,6 @@
+[Sun Apr 14 02:12:56.247499 2019] [mpm_event:notice] [pid 403:tid 140458943436672] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sun Apr 14 02:12:56.256079 2019] [core:notice] [pid 403:tid 140458943436672] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 14 12:29:26.933840 2019] [mpm_event:notice] [pid 388:tid 140228920825728] AH00489: Apache/2.4.10 (Debian) configured -- resuming normal operations
+[Sun Apr 14 12:29:26.982388 2019] [core:notice] [pid 388:tid 140228920825728] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 14 12:29:34.898854 2019] [proxy:error] [pid 397:tid 140228830623488] (111)Connection refused: AH02454: FCGI: attempt to connect to Unix domain socket /var/run/php-fpm.sock (*) failed
+[Sun Apr 14 12:29:34.899609 2019] [proxy_fcgi:error] [pid 397:tid 140228830623488] [client 172.17.0.1:38718] AH01079: failed to make connection to backend: httpd-UDS, referer: http://mid-centurycanberra.com.au/
