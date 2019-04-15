@@ -17,7 +17,6 @@
  *
  * @package WordPress
  */
-
 if (file_exists(dirname(__FILE__) . '/wp-local-config.php')) {
 /** Local database config settings */
 define( 'DB_NAME', 'local' );
