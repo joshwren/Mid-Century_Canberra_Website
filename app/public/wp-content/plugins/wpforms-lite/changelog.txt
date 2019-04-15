@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 1.5.2.2 =
+- Fixed: PHP notice/warnings from undefined constant (typo).
+
 = 1.5.2.1 =
 - Fixed: Required Checkbox fields asking for all inputs to be checked to pass validation.
 

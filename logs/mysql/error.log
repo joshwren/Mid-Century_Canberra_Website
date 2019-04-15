@@ -50,3 +50,34 @@ InnoDB: buffer...
 190414 12:29:36 [Note] Event Scheduler: Loaded 0 events
 190414 12:29:36 [Note] /usr/sbin/mysqld: ready for connections.
 Version: '5.5.60-0+deb8u1'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  (Debian)
+190415 21:53:32 [Warning] Using unique option prefix myisam-recover instead of myisam-recover-options is deprecated and will be removed in a future release. Please use the full name instead.
+190415 21:53:33 [Note] Plugin 'FEDERATED' is disabled.
+190415 21:53:33 InnoDB: The InnoDB memory heap is disabled
+190415 21:53:33 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+190415 21:53:33 InnoDB: Compressed tables use zlib 1.2.8
+190415 21:53:33 InnoDB: Using Linux native AIO
+190415 21:53:33 InnoDB: Initializing buffer pool, size = 32.0M
+190415 21:53:34 InnoDB: Completed initialization of buffer pool
+190415 21:53:34 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+190415 21:53:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+190415 21:53:37  InnoDB: Waiting for the background threads to start
+190415 21:53:38 InnoDB: 5.5.60 started; log sequence number 3002116
+190415 21:53:38 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+190415 21:53:38 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+190415 21:53:38 [Note] Server socket created on IP: '0.0.0.0'.
+190415 21:53:39 [Note] Event Scheduler: Loaded 0 events
+190415 21:53:39 [Note] /usr/sbin/mysqld: ready for connections.
+Version: '5.5.60-0+deb8u1'  socket: '/var/run/mysqld/mysqld.sock'  port: 3306  (Debian)
+190415 21:53:51 [ERROR] /usr/sbin/mysqld: Table './local/wp_options' is marked as crashed and should be repaired
+190415 21:53:51 [ERROR] /usr/sbin/mysqld: Table './local/wp_options' is marked as crashed and should be repaired
+190415 21:53:51 [Warning] Checking table:   './local/wp_options'
+190415 21:54:16 [ERROR] /usr/sbin/mysqld: Table './local/wp_postmeta' is marked as crashed and should be repaired
+190415 21:54:16 [Warning] Checking table:   './local/wp_postmeta'
+190415 21:54:32 [ERROR] /usr/sbin/mysqld: Table './local/wp_posts' is marked as crashed and should be repaired
+190415 21:54:32 [Warning] Checking table:   './local/wp_posts'
